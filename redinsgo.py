@@ -39,5 +39,5 @@ while not is_end_game:
             print('O vencendor do bingo é: {}'.format(user))
             is_end_game = True
 
-# limpar scorea base
+# limpar a base
 r.flushdb()
